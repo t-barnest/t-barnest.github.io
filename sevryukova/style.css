@@ -1,0 +1,22 @@
+body{
+	background-image:url(images/fin.png);
+}
+#shapka{
+	border:1px solid #0c0c0c;
+	background-color:#FFFACD;
+	padding:10px;
+	border-radius:30px;
+	box-shadow:3px 3px #000000;
+	text-align:center;
+	margin:20px;
+	margin-bottom:20px;
+}
+
+.niz{
+	border:1px solid #0c0c0c;
+	background-color:#F0F8FF;
+	padding:10px;
+	border-radius:30px;
+	box-shadow:3px 3px #000000;
+	text-align:left;
+	}
